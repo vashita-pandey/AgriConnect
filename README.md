@@ -107,4 +107,4 @@ Opens at `http://localhost:8501`.
 
 ## Author
 
-Vashita Pandey and Nawfal Ahmed N — VIT Chennai, B.Tech CSE (AI Engineering)
+Vashita Pandey and Nawfal Ahmed N — VIT Chennai, B.Tech CSE 
