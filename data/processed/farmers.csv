@@ -1,0 +1,151 @@
+farmer_id,region,latitude,longitude,specialties,years_farming,organic_certified
+FARM-0000,Bengaluru,12.90881,77.41169,"['Tomato', 'Bhindi (Ladies finger)', 'Garlic']",26,False
+FARM-0001,Pune,18.63597,73.79942,['Methi'],22,False
+FARM-0002,Pune,18.62428,73.90074,"['Green Chilli', 'Methi']",22,False
+FARM-0003,Coimbatore,11.07589,76.62801,"['Tomato', 'Peas']",16,True
+FARM-0004,Pune,18.75254,73.80864,['Brinjal'],12,False
+FARM-0005,Bengaluru,12.92126,77.60234,"['Onion', 'Elephant Yam (Suran)']",23,False
+FARM-0006,Bengaluru,13.04875,77.45887,"['Potato', 'Green Chilli', 'Methi']",10,False
+FARM-0007,Pune,18.52324,73.84467,['Methi'],23,False
+FARM-0008,Chennai,13.18579,80.39499,"['Tomato', 'Green Chilli', 'Brinjal']",17,False
+FARM-0009,Bengaluru,12.79025,77.52384,"['Onion', 'Elephant Yam (Suran)', 'Peas']",15,True
+FARM-0010,Chennai,13.22754,80.32627,"['Methi', 'Onion']",10,False
+FARM-0011,Bengaluru,12.76685,77.73115,"['Green Chilli', 'Potato']",6,True
+FARM-0012,Bengaluru,13.07419,77.75915,['Elephant Yam (Suran)'],18,True
+FARM-0013,Hyderabad,17.34364,78.60999,"['Garlic', 'Peas', 'Green Chilli']",3,True
+FARM-0014,Hyderabad,17.35705,78.76607,"['Green Chilli', 'Peas', 'Onion']",25,False
+FARM-0015,Coimbatore,10.91069,76.98607,['Methi'],7,False
+FARM-0016,Coimbatore,11.02363,76.82838,"['Brinjal', 'Methi']",15,False
+FARM-0017,Bengaluru,12.90494,77.63357,"['Bhindi (Ladies finger)', 'Methi']",17,False
+FARM-0018,Pune,18.5637,73.93615,['Onion'],32,False
+FARM-0019,Hyderabad,17.42145,78.47699,"['Brinjal', 'Potato']",27,True
+FARM-0020,Chennai,12.88856,80.17675,"['Brinjal', 'Elephant Yam (Suran)']",10,False
+FARM-0021,Pune,18.53455,73.82947,"['Bhindi (Ladies finger)', 'Green Chilli']",5,False
+FARM-0022,Chennai,13.00503,80.14929,['Methi'],25,False
+FARM-0023,Chennai,13.24026,80.30843,['Tomato'],19,False
+FARM-0024,Chennai,13.2489,80.22003,"['Garlic', 'Peas', 'Onion']",9,False
+FARM-0025,Chennai,13.15005,80.26747,['Tomato'],31,False
+FARM-0026,Nashik,19.90137,74.00843,"['Potato', 'Bhindi (Ladies finger)', 'Peas']",13,True
+FARM-0027,Coimbatore,11.02564,77.1114,"['Bhindi (Ladies finger)', 'Tomato', 'Elephant Yam (Suran)']",6,True
+FARM-0028,Hyderabad,17.33146,78.62112,"['Methi', 'Green Chilli']",34,False
+FARM-0029,Hyderabad,17.41541,78.51984,['Bhindi (Ladies finger)'],24,True
+FARM-0030,Chennai,13.14841,80.47196,"['Green Chilli', 'Methi']",25,False
+FARM-0031,Coimbatore,10.92162,77.02719,['Elephant Yam (Suran)'],11,False
+FARM-0032,Pune,18.68642,73.77185,"['Brinjal', 'Bhindi (Ladies finger)']",19,False
+FARM-0033,Nashik,20.07852,73.77235,['Tomato'],21,False
+FARM-0034,Coimbatore,11.20731,76.97724,"['Bhindi (Ladies finger)', 'Garlic', 'Onion']",28,True
+FARM-0035,Hyderabad,17.19642,78.34398,"['Brinjal', 'Onion']",13,False
+FARM-0036,Bengaluru,12.97457,77.81323,"['Onion', 'Elephant Yam (Suran)']",26,False
+FARM-0037,Nashik,20.04809,73.85602,['Tomato'],29,False
+FARM-0038,Nashik,19.96765,73.92446,['Garlic'],6,True
+FARM-0039,Pune,18.56186,73.87115,['Brinjal'],21,False
+FARM-0040,Coimbatore,11.10522,76.86739,"['Methi', 'Green Chilli']",2,True
+FARM-0041,Nashik,19.89457,73.84958,['Onion'],2,False
+FARM-0042,Nashik,20.09916,73.82422,"['Potato', 'Elephant Yam (Suran)']",4,False
+FARM-0043,Coimbatore,11.07532,76.64346,"['Garlic', 'Green Chilli', 'Peas']",5,False
+FARM-0044,Chennai,12.91837,80.41541,"['Elephant Yam (Suran)', 'Peas']",10,True
+FARM-0045,Hyderabad,17.31919,78.55902,"['Brinjal', 'Potato']",12,False
+FARM-0046,Chennai,13.22622,80.18746,"['Brinjal', 'Methi', 'Peas']",19,False
+FARM-0047,Hyderabad,17.23439,78.32031,"['Onion', 'Bhindi (Ladies finger)']",25,True
+FARM-0048,Pune,18.43211,73.77948,"['Garlic', 'Bhindi (Ladies finger)', 'Peas']",3,False
+FARM-0049,Coimbatore,10.75685,76.78227,['Brinjal'],27,False
+FARM-0050,Nashik,20.09822,73.8583,"['Garlic', 'Tomato', 'Brinjal']",20,False
+FARM-0051,Hyderabad,17.44657,78.2941,"['Elephant Yam (Suran)', 'Brinjal']",21,False
+FARM-0052,Nashik,19.97777,73.75962,['Methi'],15,False
+FARM-0053,Chennai,13.09614,80.10037,"['Garlic', 'Methi', 'Onion']",11,True
+FARM-0054,Nashik,19.82879,73.94174,['Tomato'],25,False
+FARM-0055,Nashik,19.84889,73.93589,"['Garlic', 'Green Chilli', 'Bhindi (Ladies finger)']",33,True
+FARM-0056,Chennai,13.00485,80.22248,"['Peas', 'Garlic', 'Bhindi (Ladies finger)']",16,False
+FARM-0057,Hyderabad,17.33938,78.62153,['Garlic'],32,False
+FARM-0058,Pune,18.44911,74.18622,['Methi'],29,True
+FARM-0059,Pune,18.70389,73.97386,"['Green Chilli', 'Elephant Yam (Suran)', 'Garlic']",9,True
+FARM-0060,Nashik,19.92135,73.6758,"['Bhindi (Ladies finger)', 'Elephant Yam (Suran)', 'Methi']",2,False
+FARM-0061,Nashik,20.13084,73.83993,"['Methi', 'Garlic', 'Elephant Yam (Suran)']",27,False
+FARM-0062,Coimbatore,11.04888,76.98785,"['Garlic', 'Brinjal', 'Elephant Yam (Suran)']",22,False
+FARM-0063,Hyderabad,17.36851,78.61244,['Bhindi (Ladies finger)'],25,False
+FARM-0064,Coimbatore,11.09619,76.97744,"['Green Chilli', 'Tomato']",25,True
+FARM-0065,Hyderabad,17.25137,78.5223,['Garlic'],27,False
+FARM-0066,Nashik,19.95763,73.90909,"['Potato', 'Garlic']",24,False
+FARM-0067,Hyderabad,17.30853,78.53935,"['Tomato', 'Brinjal', 'Methi']",5,True
+FARM-0068,Bengaluru,12.86497,77.47422,['Elephant Yam (Suran)'],15,False
+FARM-0069,Nashik,20.13417,73.82131,['Onion'],15,False
+FARM-0070,Bengaluru,12.91691,77.41877,['Garlic'],23,False
+FARM-0071,Pune,18.31645,73.95046,['Garlic'],22,False
+FARM-0072,Nashik,20.23697,73.66022,"['Methi', 'Garlic']",18,False
+FARM-0073,Chennai,13.24875,80.41869,['Bhindi (Ladies finger)'],3,False
+FARM-0074,Coimbatore,11.06142,77.04071,['Methi'],11,False
+FARM-0075,Nashik,19.7958,73.99856,['Methi'],6,False
+FARM-0076,Coimbatore,11.20148,76.95054,['Brinjal'],27,False
+FARM-0077,Coimbatore,10.90611,76.82047,"['Peas', 'Bhindi (Ladies finger)', 'Onion']",18,True
+FARM-0078,Coimbatore,10.72165,76.8475,['Onion'],29,False
+FARM-0079,Pune,18.63636,73.9205,['Green Chilli'],26,False
+FARM-0080,Hyderabad,17.43143,78.45604,"['Green Chilli', 'Bhindi (Ladies finger)']",8,False
+FARM-0081,Chennai,13.23347,80.35874,"['Onion', 'Elephant Yam (Suran)']",29,False
+FARM-0082,Pune,18.74169,73.94129,"['Peas', 'Potato']",19,False
+FARM-0083,Nashik,20.11311,73.63485,"['Brinjal', 'Onion', 'Elephant Yam (Suran)']",20,False
+FARM-0084,Hyderabad,17.51456,78.58717,"['Bhindi (Ladies finger)', 'Potato']",32,False
+FARM-0085,Hyderabad,17.46356,78.49905,['Peas'],32,False
+FARM-0086,Hyderabad,17.38123,78.50791,['Tomato'],24,False
+FARM-0087,Coimbatore,11.02958,76.77815,"['Green Chilli', 'Garlic', 'Elephant Yam (Suran)']",33,False
+FARM-0088,Hyderabad,17.28875,78.52474,"['Elephant Yam (Suran)', 'Garlic', 'Brinjal']",33,False
+FARM-0089,Bengaluru,12.82928,77.79985,['Bhindi (Ladies finger)'],5,True
+FARM-0090,Pune,18.3049,73.90491,"['Elephant Yam (Suran)', 'Onion', 'Green Chilli']",27,True
+FARM-0091,Chennai,13.21266,80.00577,"['Bhindi (Ladies finger)', 'Onion']",13,True
+FARM-0092,Hyderabad,17.41919,78.25902,['Bhindi (Ladies finger)'],30,False
+FARM-0093,Hyderabad,17.34893,78.45201,"['Brinjal', 'Methi', 'Tomato']",18,False
+FARM-0094,Pune,18.43154,73.69112,['Onion'],9,False
+FARM-0095,Pune,18.37253,73.76244,"['Potato', 'Brinjal']",10,False
+FARM-0096,Nashik,19.98416,73.72508,['Brinjal'],28,False
+FARM-0097,Pune,18.45434,73.82311,['Tomato'],34,False
+FARM-0098,Coimbatore,10.82919,76.95944,"['Tomato', 'Potato']",13,True
+FARM-0099,Hyderabad,17.34262,78.43891,['Green Chilli'],12,False
+FARM-0100,Nashik,19.95105,74.00046,"['Potato', 'Green Chilli', 'Onion']",12,False
+FARM-0101,Chennai,12.9553,80.08713,"['Bhindi (Ladies finger)', 'Onion']",9,False
+FARM-0102,Chennai,12.9218,80.20525,['Onion'],27,False
+FARM-0103,Pune,18.42084,73.66251,"['Onion', 'Green Chilli']",31,False
+FARM-0104,Hyderabad,17.34074,78.42337,['Potato'],33,False
+FARM-0105,Nashik,20.07548,73.84874,"['Bhindi (Ladies finger)', 'Onion']",9,True
+FARM-0106,Nashik,20.11933,73.8302,"['Methi', 'Tomato']",14,True
+FARM-0107,Nashik,19.93435,73.83934,"['Potato', 'Elephant Yam (Suran)', 'Tomato']",4,False
+FARM-0108,Bengaluru,12.89225,77.73252,['Brinjal'],15,False
+FARM-0109,Hyderabad,17.3893,78.57772,"['Brinjal', 'Methi', 'Green Chilli']",8,False
+FARM-0110,Chennai,13.06594,80.20267,"['Green Chilli', 'Peas', 'Tomato']",5,False
+FARM-0111,Bengaluru,12.99075,77.61057,['Methi'],22,True
+FARM-0112,Bengaluru,13.20154,77.60145,"['Onion', 'Green Chilli']",22,True
+FARM-0113,Nashik,20.13888,73.71067,"['Brinjal', 'Elephant Yam (Suran)', 'Green Chilli']",34,False
+FARM-0114,Coimbatore,10.88983,76.86265,"['Onion', 'Garlic', 'Tomato']",11,True
+FARM-0115,Nashik,20.01034,73.81166,['Peas'],25,False
+FARM-0116,Chennai,12.94484,80.17848,"['Methi', 'Green Chilli', 'Tomato']",24,True
+FARM-0117,Coimbatore,11.03935,76.95816,"['Brinjal', 'Elephant Yam (Suran)']",20,True
+FARM-0118,Pune,18.34716,73.69031,"['Onion', 'Methi', 'Tomato']",21,False
+FARM-0119,Hyderabad,17.34988,78.4626,"['Tomato', 'Onion']",30,True
+FARM-0120,Pune,18.45413,73.72117,"['Brinjal', 'Methi']",20,False
+FARM-0121,Coimbatore,11.16227,76.96722,"['Potato', 'Bhindi (Ladies finger)', 'Methi']",14,True
+FARM-0122,Coimbatore,11.11291,77.087,"['Elephant Yam (Suran)', 'Green Chilli', 'Onion']",7,False
+FARM-0123,Nashik,19.98704,73.68929,"['Peas', 'Garlic', 'Methi']",18,False
+FARM-0124,Pune,18.70071,73.99586,"['Peas', 'Green Chilli', 'Elephant Yam (Suran)']",28,True
+FARM-0125,Bengaluru,13.0155,77.58884,['Elephant Yam (Suran)'],13,False
+FARM-0126,Nashik,19.9113,73.71963,"['Potato', 'Brinjal', 'Garlic']",21,False
+FARM-0127,Pune,18.45118,73.91102,"['Tomato', 'Peas']",6,False
+FARM-0128,Bengaluru,13.1113,77.69466,"['Brinjal', 'Methi']",30,True
+FARM-0129,Hyderabad,17.28562,78.50668,['Brinjal'],9,True
+FARM-0130,Bengaluru,12.6895,77.60257,"['Tomato', 'Methi']",9,False
+FARM-0131,Chennai,13.39178,80.24064,"['Brinjal', 'Green Chilli', 'Potato']",3,True
+FARM-0132,Nashik,20.03973,73.72832,['Methi'],21,False
+FARM-0133,Pune,18.55833,73.8058,['Potato'],20,False
+FARM-0134,Coimbatore,11.02442,76.83487,['Bhindi (Ladies finger)'],27,True
+FARM-0135,Pune,18.6142,73.92521,"['Potato', 'Onion', 'Tomato']",7,False
+FARM-0136,Bengaluru,13.04995,77.48863,"['Garlic', 'Green Chilli']",12,False
+FARM-0137,Coimbatore,11.07514,76.93271,['Bhindi (Ladies finger)'],31,False
+FARM-0138,Chennai,12.92488,80.23379,"['Brinjal', 'Methi']",5,True
+FARM-0139,Chennai,13.19387,80.4549,"['Brinjal', 'Elephant Yam (Suran)', 'Onion']",9,True
+FARM-0140,Hyderabad,17.23595,78.36632,['Bhindi (Ladies finger)'],16,False
+FARM-0141,Pune,18.57861,73.7295,"['Elephant Yam (Suran)', 'Methi']",16,True
+FARM-0142,Coimbatore,10.99441,76.98993,"['Peas', 'Bhindi (Ladies finger)', 'Methi']",26,False
+FARM-0143,Coimbatore,10.8724,76.78344,['Methi'],1,False
+FARM-0144,Chennai,13.13254,80.32313,['Brinjal'],6,False
+FARM-0145,Hyderabad,17.35642,78.29719,"['Brinjal', 'Peas']",23,False
+FARM-0146,Bengaluru,13.06124,77.7768,"['Bhindi (Ladies finger)', 'Peas']",29,True
+FARM-0147,Nashik,20.28396,73.77504,"['Brinjal', 'Garlic']",23,False
+FARM-0148,Hyderabad,17.25167,78.57961,"['Methi', 'Garlic', 'Tomato']",18,False
+FARM-0149,Chennai,12.95277,80.35529,"['Elephant Yam (Suran)', 'Brinjal']",5,True

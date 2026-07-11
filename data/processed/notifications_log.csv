@@ -1,0 +1,126 @@
+recipient_type,recipient_id,channel,template,message
+consumer,CONS-0333,email,order_confirmation,Order confirmed: 3kg Methi from FARM-0132 — $29.28
+consumer,CONS-0602,email,order_confirmation,Order confirmed: 3kg Potato from FARM-0121 — $40.77
+consumer,CONS-0113,email,order_confirmation,Order confirmed: 4kg Methi from FARM-0109 — $25.84
+consumer,CONS-0204,email,order_confirmation,Order confirmed: 6kg Potato from FARM-0098 — $117.78
+consumer,CONS-0163,email,order_confirmation,Order confirmed: 4kg Methi from FARM-0123 — $60.12
+consumer,CONS-0589,email,order_confirmation,Order confirmed: 9kg Brinjal from FARM-0062 — $255.78
+consumer,CONS-0328,email,order_confirmation,Order confirmed: 9kg Elephant Yam (Suran) from FARM-0005 — $280.8
+consumer,CONS-0074,email,order_confirmation,Order confirmed: 6kg Brinjal from FARM-0088 — $142.44
+consumer,CONS-0455,email,order_confirmation,Order confirmed: 3kg Methi from FARM-0141 — $21.27
+consumer,CONS-0734,email,order_confirmation,Order confirmed: 8kg Brinjal from FARM-0093 — $268.0
+consumer,CONS-0755,email,order_confirmation,Order confirmed: 7kg Potato from FARM-0133 — $115.85
+consumer,CONS-0740,email,order_confirmation,Order confirmed: 3kg Elephant Yam (Suran) from FARM-0062 — $69.42
+consumer,CONS-0107,email,order_confirmation,Order confirmed: 8kg Brinjal from FARM-0108 — $197.92
+consumer,CONS-0216,email,order_confirmation,Order confirmed: 8kg Methi from FARM-0007 — $89.2
+consumer,CONS-0458,email,order_confirmation,Order confirmed: 6kg Methi from FARM-0123 — $44.64
+consumer,CONS-0459,email,order_confirmation,Order confirmed: 4kg Methi from FARM-0093 — $37.48
+consumer,CONS-0739,email,order_confirmation,Order confirmed: 5kg Onion from FARM-0005 — $53.55
+consumer,CONS-0251,email,order_confirmation,Order confirmed: 1kg Potato from FARM-0133 — $11.5
+consumer,CONS-0602,email,order_confirmation,Order confirmed: 1kg Tomato from FARM-0064 — $17.13
+consumer,CONS-0243,email,order_confirmation,Order confirmed: 6kg Elephant Yam (Suran) from FARM-0141 — $163.8
+consumer,CONS-0500,email,order_confirmation,Order confirmed: 1kg Methi from FARM-0052 — $14.63
+consumer,CONS-0503,email,order_confirmation,Order confirmed: 3kg Methi from FARM-0017 — $19.77
+consumer,CONS-0430,email,order_confirmation,Order confirmed: 1kg Methi from FARM-0142 — $11.73
+consumer,CONS-0165,email,order_confirmation,Order confirmed: 5kg Tomato from FARM-0127 — $75.05
+consumer,CONS-0123,email,order_confirmation,Order confirmed: 3kg Onion from FARM-0119 — $32.1
+consumer,CONS-0501,email,order_confirmation,Order confirmed: 3kg Methi from FARM-0093 — $24.12
+consumer,CONS-0019,email,order_confirmation,Order confirmed: 3kg Methi from FARM-0015 — $15.87
+consumer,CONS-0438,email,order_confirmation,Order confirmed: 4kg Tomato from FARM-0116 — $76.24
+consumer,CONS-0615,email,order_confirmation,Order confirmed: 7kg Elephant Yam (Suran) from FARM-0061 — $121.94
+consumer,CONS-0067,email,order_confirmation,Order confirmed: 6kg Methi from FARM-0111 — $50.94
+consumer,CONS-0124,email,order_confirmation,Order confirmed: 1kg Brinjal from FARM-0117 — $30.47
+consumer,CONS-0408,email,order_confirmation,Order confirmed: 2kg Potato from FARM-0121 — $50.74
+consumer,CONS-0486,email,order_confirmation,Order confirmed: 6kg Tomato from FARM-0093 — $83.46
+consumer,CONS-0658,email,order_confirmation,Order confirmed: 1kg Brinjal from FARM-0062 — $23.82
+consumer,CONS-0610,email,order_confirmation,Order confirmed: 4kg Peas from FARM-0110 — $84.6
+consumer,CONS-0681,email,order_confirmation,Order confirmed: 9kg Tomato from FARM-0110 — $139.32
+consumer,CONS-0330,email,order_confirmation,Order confirmed: 2kg Peas from FARM-0115 — $48.16
+consumer,CONS-0652,email,order_confirmation,Order confirmed: 3kg Tomato from FARM-0097 — $45.15
+consumer,CONS-0735,email,order_confirmation,Order confirmed: 5kg Tomato from FARM-0067 — $84.9
+consumer,CONS-0420,email,order_confirmation,Order confirmed: 8kg Elephant Yam (Suran) from FARM-0042 — $191.76
+consumer,CONS-0020,email,order_confirmation,Order confirmed: 7kg Methi from FARM-0053 — $34.51
+consumer,CONS-0702,email,order_confirmation,Order confirmed: 1kg Tomato from FARM-0008 — $17.5
+consumer,CONS-0173,email,order_confirmation,Order confirmed: 7kg Elephant Yam (Suran) from FARM-0068 — $77.28
+consumer,CONS-0152,email,order_confirmation,Order confirmed: 8kg Potato from FARM-0126 — $158.32
+consumer,CONS-0728,email,order_confirmation,Order confirmed: 7kg Green Chilli from FARM-0110 — $219.24
+consumer,CONS-0294,email,order_confirmation,Order confirmed: 6kg Bhindi (Ladies finger) from FARM-0017 — $112.26
+consumer,CONS-0590,email,order_confirmation,Order confirmed: 7kg Bhindi (Ladies finger) from FARM-0029 — $157.08
+consumer,CONS-0178,email,order_confirmation,Order confirmed: 3kg Tomato from FARM-0086 — $48.09
+consumer,CONS-0733,email,order_confirmation,Order confirmed: 6kg Methi from FARM-0053 — $103.86
+consumer,CONS-0555,email,order_confirmation,Order confirmed: 5kg Onion from FARM-0036 — $125.15
+farmer,FARM-0000,sms,low_stock_alert,Low stock: only 13kg of Bhindi (Ladies finger) left on listing LST-000044
+farmer,FARM-0000,sms,low_stock_alert,Low stock: only 15kg of Garlic left on listing LST-000090
+farmer,FARM-0004,sms,low_stock_alert,Low stock: only 12kg of Brinjal left on listing LST-000333
+farmer,FARM-0007,sms,low_stock_alert,Low stock: only 10kg of Methi left on listing LST-000590
+farmer,FARM-0009,sms,low_stock_alert,Low stock: only 18kg of Elephant Yam (Suran) left on listing LST-000791
+farmer,FARM-0045,sms,low_stock_alert,Low stock: only 11kg of Brinjal left on listing LST-003413
+farmer,FARM-0051,sms,low_stock_alert,Low stock: only 16kg of Elephant Yam (Suran) left on listing LST-003965
+farmer,FARM-0051,sms,low_stock_alert,Low stock: only 18kg of Brinjal left on listing LST-004001
+farmer,FARM-0054,sms,low_stock_alert,Low stock: only 18kg of Tomato left on listing LST-004225
+farmer,FARM-0067,sms,low_stock_alert,Low stock: only 15kg of Tomato left on listing LST-005292
+farmer,FARM-0093,sms,low_stock_alert,Low stock: only 13kg of Brinjal left on listing LST-007075
+farmer,FARM-0094,sms,low_stock_alert,Low stock: only 12kg of Onion left on listing LST-007178
+farmer,FARM-0107,sms,low_stock_alert,Low stock: only 11kg of Tomato left on listing LST-008090
+farmer,FARM-0110,sms,low_stock_alert,Low stock: only 10kg of Tomato left on listing LST-008385
+farmer,FARM-0118,sms,low_stock_alert,Low stock: only 14kg of Onion left on listing LST-009008
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Tomato now $11.25 (was $15.22)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Tomato now $7.61 (was $12.99)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Tomato now $10.63 (was $14.38)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Bhindi (Ladies finger) now $29.41 (was $48.27)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Bhindi (Ladies finger) now $34.58 (was $56.76)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Methi now $9.16 (was $19.6)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Methi now $8.94 (was $19.13)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Methi now $8.25 (was $17.66)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Tomato now $12.56 (was $16.99)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Peas now $18.99 (was $44.62)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Peas now $25.33 (was $33.43)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Peas now $19.36 (was $45.49)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Brinjal now $35.43 (was $70.48)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Brinjal now $37.4 (was $74.41)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Methi now $8.12 (was $17.38)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Tomato now $10.87 (was $18.57)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Green Chilli now $20.63 (was $36.72)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Brinjal now $51.5 (was $69.1)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Methi now $7.53 (was $16.11)
+consumer,SEGMENT:crop_followers,push,price_drop_alert,Price drop: Methi now $8.56 (was $18.32)
+consumer,CONS-0474,email,subscription_renewal,Your Monthly produce box renews in 2 days — $300.46
+consumer,CONS-0426,email,subscription_renewal,Your Weekly produce box renews in 2 days — $371.0
+consumer,CONS-0036,email,subscription_renewal,Your Weekly produce box renews in 2 days — $280.99
+consumer,CONS-0265,email,subscription_renewal,Your Biweekly produce box renews in 2 days — $544.5
+consumer,CONS-0538,email,subscription_renewal,Your Weekly produce box renews in 2 days — $183.95
+consumer,CONS-0071,email,subscription_renewal,Your Biweekly produce box renews in 2 days — $332.25
+consumer,CONS-0786,email,subscription_renewal,Your Biweekly produce box renews in 2 days — $229.01
+consumer,CONS-0056,email,subscription_renewal,Your Monthly produce box renews in 2 days — $413.89
+consumer,CONS-0693,email,subscription_renewal,Your Weekly produce box renews in 2 days — $151.37
+consumer,CONS-0391,email,subscription_renewal,Your Weekly produce box renews in 2 days — $264.79
+consumer,CONS-0523,email,subscription_renewal,Your Biweekly produce box renews in 2 days — $468.95
+consumer,CONS-0578,email,subscription_renewal,Your Weekly produce box renews in 2 days — $486.99
+consumer,CONS-0773,email,subscription_renewal,Your Weekly produce box renews in 2 days — $181.8
+consumer,CONS-0413,email,subscription_renewal,Your Weekly produce box renews in 2 days — $389.35
+consumer,CONS-0078,email,subscription_renewal,Your Weekly produce box renews in 2 days — $250.12
+consumer,CONS-0478,email,subscription_renewal,Your Biweekly produce box renews in 2 days — $374.84
+consumer,CONS-0682,email,subscription_renewal,Your Biweekly produce box renews in 2 days — $570.14
+consumer,CONS-0650,email,subscription_renewal,Your Weekly produce box renews in 2 days — $395.87
+consumer,CONS-0618,email,subscription_renewal,Your Biweekly produce box renews in 2 days — $463.9
+consumer,CONS-0187,email,subscription_renewal,Your Biweekly produce box renews in 2 days — $259.88
+farmer,FARM-0010,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.32). Consider reaching out to affected customers.
+farmer,FARM-0015,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.39). Consider reaching out to affected customers.
+farmer,FARM-0016,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.33). Consider reaching out to affected customers.
+farmer,FARM-0021,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.35). Consider reaching out to affected customers.
+farmer,FARM-0022,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.39). Consider reaching out to affected customers.
+farmer,FARM-0031,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.35). Consider reaching out to affected customers.
+farmer,FARM-0036,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.38). Consider reaching out to affected customers.
+farmer,FARM-0041,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.34). Consider reaching out to affected customers.
+farmer,FARM-0042,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.37). Consider reaching out to affected customers.
+farmer,FARM-0050,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.33). Consider reaching out to affected customers.
+farmer,FARM-0060,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.35). Consider reaching out to affected customers.
+farmer,FARM-0066,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.31). Consider reaching out to affected customers.
+farmer,FARM-0068,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.36). Consider reaching out to affected customers.
+farmer,FARM-0080,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.30). Consider reaching out to affected customers.
+farmer,FARM-0087,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.31). Consider reaching out to affected customers.
+farmer,FARM-0094,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.28). Consider reaching out to affected customers.
+farmer,FARM-0100,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.28). Consider reaching out to affected customers.
+farmer,FARM-0107,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.38). Consider reaching out to affected customers.
+farmer,FARM-0109,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.34). Consider reaching out to affected customers.
+farmer,FARM-0110,email,quality_risk_alert,Your recent reviews are trending down (avg sentiment 0.39). Consider reaching out to affected customers.

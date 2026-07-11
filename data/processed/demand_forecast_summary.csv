@@ -1,0 +1,11 @@
+crop,current_avg_price,forecast_avg_price_14d,price_trend_per_day,elasticity,forecast_daily_demand_kg
+Bhindi (Ladies finger),25.52,29.08,-0.0028,-0.882,4.8
+Tomato,16.45,15.98,-0.0001,-1.064,4.4
+Onion,14.77,37.02,0.109,-0.741,2.1
+Potato,19.46,21.07,0.0166,-1.014,3.8
+Brinjal,24.94,37.77,0.0405,-0.923,3.0
+Garlic,70.87,234.43,0.6722,,
+Peas,31.25,92.9,0.176,-0.691,1.7
+Methi,9.69,25.58,0.0411,-0.604,2.4
+Green Chilli,33.64,43.33,-0.0047,-0.111,4.0
+Elephant Yam (Suran),25.52,32.21,0.0232,-0.558,4.5
